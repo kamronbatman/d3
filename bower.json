@@ -1,0 +1,17 @@
+{
+  "name": "music visualizer",
+  "version": "0.0.1",
+  "authors": [ "Kamron Batman <batman@sipprs.com>" ],
+  "description": "A music visualizer using d3.js",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "d3": "~3.5.6",
+    "underscore": "~1.8.3"
+  }
+}
